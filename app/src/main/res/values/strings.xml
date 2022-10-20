@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+
+    <string name="question_1">Czy 4*4 = 16?</string>
+    <string name="question_2">Czy 42/6 = 6?</string>
+    <string name="question_3">Unia Europejska składa się z 26 państw członkowskich</string>
+    <string name="question_4">Pierwsza komercyjna wersja Androida została wydana w 2008 roku</string>
+    <string name="question_5">Pierwsza wersja systemu Android nosiła nazwę "Cupcake"</string>
+    <string name="correct_answer">Gratulacje, poprawna odpowiedź!</string>
+    <string name="incorrect_answer">Niestety, niepoprawna odpowiedź!</string>
+
+
+</resources>
